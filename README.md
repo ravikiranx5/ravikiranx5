@@ -1,7 +1,7 @@
 - Hi 👋, I’m @ravikiran
 - 👀 I’m interested in FullStack Developement and Cybersecurity
 - 🌱 I’m currently working on  SpringBoot Microservices,React
-- 💞️ I’m looking to learn and collaborate on Passionate Technology Projects
+- 💞️ I’m looking forward to learn and collaborate on passionate technology projects
 - 📫 How to reach me... through Linkedin
 
 <!---
